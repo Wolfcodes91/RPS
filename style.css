@@ -45,3 +45,16 @@
     background-color: purple;
     padding: 0.5vmin 2vmin;
   }
+
+  .button {
+      background-color: blue;
+      color: white;
+      border: solid 0.5vmin black;
+  }
+
+  .button.highlight {
+      background-color: goldenrod;
+      color: black;
+      border: solid 1vmin black;
+      font-size: 4vmin;
+  }
