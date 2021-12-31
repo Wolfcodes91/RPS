@@ -96,7 +96,7 @@ displayResult = (result) => {
   document.getElementById("computerScore").innerHTML = computerScore;
   document.getElementById("tieScore").innerHTML = tieScore;
   resultText.innerText = result;
-  resultText.style.fontSize = "5vmin";
+  resultText.style.fontSize = "4.5vmin";
   resultText.style.backgroundColor = "lightGray";
   resultText.style.borderRadius = 
   "3vmin"
