@@ -1,0 +1,47 @@
+.pic {
+    Width: 40vmin; 
+    margin: 1vmin;
+  }
+  h1 {
+    font-size: 5vmin;
+    background-color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    border-radius: 3vmin;
+  
+  }
+  body{
+    text-align: center;
+  }
+  button {
+    font-size: 3vmin;
+    background-color: blue;
+    color: white;
+    border-radius: 2vmin 5vmin 2vmin 5vmin;
+    padding: 1vmin 4vmin;
+  }
+  button:hover{
+    background: linear-gradient(red, orangered, orange);
+    padding: 2vmin 6vmin;
+    border: 1vmin solid purple;
+  }
+  h4 {
+    font-size: 3vmin;
+    color: Purple;
+  }
+  .scoreboard {
+    width: 15vmin;
+    border: 1vmin black;
+    text-align: center;
+    margin: auto;
+    padding: 2vmin 7vmin 0 0.5vmin;
+  }
+  .scoreboard td, .scoreboard th{
+    font-size: 3vmin;
+    padding: 1vmin 1vmin 0 1vmin;
+  }
+  #reset {
+    font-size: 2vmin;
+    background-color: purple;
+    padding: 0.5vmin 2vmin;
+  }
